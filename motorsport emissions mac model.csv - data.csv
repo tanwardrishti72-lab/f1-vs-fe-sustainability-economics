@@ -1,0 +1,11 @@
+Race Pair / Route,Distance (km),Freight Weight (tons),Mode of Transport,Emission Factor (gCO2​e/ton-km),Baseline Emissions (tCO2​e),Optimized Clustered Mode,Optimized Emissions (tCO2​e),Carbon Savings (%)
+Miami GP → Imola (Italy),"7,950",350,Long-haul Air Freight,602,"1,676.55",Sea Freight (Pre-staged),44.52,97.34%
+Monaco → Baku (Azerbaijan),"3,100",350,Medium-haul Air Freight,602,653.17,Regional Biofuel Truck,20.62,96.84%
+Montreal (Canada) → Austria,"6,150",350,Long-haul Air Freight,602,"1,297.31",Sea Freight / Regional Cluster,34.44,97.35%
+Total Emissions Baseline,—,—,—,—,"3,627.03",Total Optimized,99.58,97.25%
+,,,,,,,,
+,,,,,,,,
+Intervention Strategy,Freight Mode Switch,Extra Cost ($),CO2 Emissions Reduced (tCO2e),Abatement Cost ($ / tCO2e),,,,
+Regional Calendar Clustering,Air Freight -> Sea Freight,15000,"$1,632.03",$9.19,NOTE:- Regional Clustering: ~$9.19 per ton of CO2e saved(extremely cost-effective). ,,,
+HVO Biofuel Transition (Road),Diesel -> HVO Trucking,8500,$632.55,$13.44,Biofuel Transition: ~$13.44 per ton of CO2e saved (very cheap operational fix).,,,
+Sustainable Aviation Fuel (SAF),Conventional Jet -> SAF,45000,$250.00,$180.00,"Sustainable Aviation Fuel (SAF): $180.00 per ton of CO2e saved (high cost, necessary for urgent air transport decarbonization).",,,
