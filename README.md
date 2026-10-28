@@ -21,9 +21,7 @@ This project evaluates the economic efficiency of decarbonization strategies acr
 ##  Methodology & Frameworks Applied
 1. **GHG Protocol Scope 3 Category 4:** Upstream Transportation & Distribution.
 2. **DEFRA Carbon Intensity Factors:** Long-haul air freight (602 g CO2e/t-km), Container Sea Freight (16 g CO2e/t-km), Biofuel Trucking (19 g CO2e/t-km).
-3. *3. **Marginal Abatement Cost Formula:**
-```math
-\text{Abatement Cost} = \frac{\text{Extra Cost (\$)}}{\text{CO}_2 \text{ Emissions Reduced (tCO}_2\text{e)}}
+3. **Marginal Abatement Cost Formula:** **Abatement Cost ($/tCO2e) = Extra Cost ($) / CO2 Emissions Reduced (tCO2e)**
 ---
 
 ##  Repository Contents
